@@ -33,7 +33,7 @@ DESKTOP DESIGN
 
 
 
-![](./screenshots/mobileDesign.jpeg)
+![](./screenshots/desktopDesign.jpeg.jpeg)
 
 
 
@@ -41,7 +41,7 @@ MOBILE DESIGN
 
 
 
-![](./screenshots/iPhone%2012%20Pro-1788046342007.jpeg)
+![](./screenshots/mobileDesign.jpeg)
 
 
 ### Links
