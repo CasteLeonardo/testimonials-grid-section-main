@@ -33,7 +33,7 @@ DESKTOP DESIGN
 
 
 
-![](./screenshots/desktopDesign.jpeg.jpeg)
+![](./screenshots/desktopDesign.jpeg)
 
 
 
