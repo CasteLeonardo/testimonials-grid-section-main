@@ -126,6 +126,10 @@ main {
 .testimonial--daniel {
     background-color: var(--Purple500);
     color: var(--White);
+
+    background-image: url("../images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: 80% 0;
 }
 
 .testimonial--jonathan {
